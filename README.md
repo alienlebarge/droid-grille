@@ -10,7 +10,7 @@ bassline generation is based on the lead.
 
 ## How it works
 
-You can refer to the diagram and the inputs and outputs list in `grille.ini`
+You can refer to the diagram and the inputs and outputs list in `droid.ini`
 file.
 
 ## What you need
@@ -30,5 +30,5 @@ If you have question, ideas of improvement, [let's chat about it](https://github
 ├── LICENSE.md     # License
 ├── README.md      # Readme file
 ├── grille.ini     # droid patch
-└── grille.monopic # dyagram file for monodraw app
+└── grille.monopic # diagram file for monodraw app
 ```
