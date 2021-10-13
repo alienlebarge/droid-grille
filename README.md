@@ -3,7 +3,7 @@
 The patch Grille (pronounced _ɡʁij_) is a sequencer build using Droid's
 ecosystem.
 
-## What can it do
+## What can it do ?
 
 Grille can drive three drum voices, one lead voice and one bassline. The
 bassline generation is based on the lead.
