@@ -13,15 +13,22 @@ bassline generation is based on the lead.
 You can refer to the diagram and the inputs and outputs list in `droid.ini`
 file.
 
-## What you need
+## Install
+
+### What you need
 
 - 1 master module
 - 2 p2b8
 - 1 p10
 
-## How to install
+### How to install
 
 Simply copy `droid.ini` on the Droid master's SD card and push the button
+
+## Changes and new versions
+
+You can see the version of the patch at the top of the `droid.ini` file and
+changes are listed in the `CHANGELOG.md` file.
 
 ## Question or ideas ?
 
