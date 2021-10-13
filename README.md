@@ -32,3 +32,7 @@ If you have question, ideas of improvement, [let's chat about it](https://github
 ├── grille.ini     # droid patch
 └── grille.monopic # diagram file for monodraw app
 ```
+
+## Find other Droid patch on Github
+
+By searching repository that match the [droid-eurorack](https://github.com/topics/droid-eurorack) topic
