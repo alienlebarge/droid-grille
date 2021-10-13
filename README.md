@@ -22,3 +22,13 @@ file.
 ## Question or ideas ?
 
 If you have question, ideas of improvement, [let's chat about it](https://github.com/alienlebarge/droid-grille/discussions).
+
+## Repo Structure
+
+```
+.
+├── LICENSE.md     # License
+├── README.md      # Readme file
+├── grille.ini     # droid patch
+└── grille.monopic # dyagram file for monodraw app
+```
