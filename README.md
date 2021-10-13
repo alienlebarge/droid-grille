@@ -19,6 +19,10 @@ file.
 - 2 p2b8
 - 1 p10
 
+## How to install
+
+Simply copy `droid.ini` on the Droid master's SD card and push the button
+
 ## Question or ideas ?
 
 If you have question, ideas of improvement, [let's chat about it](https://github.com/alienlebarge/droid-grille/discussions).
