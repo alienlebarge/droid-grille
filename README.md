@@ -8,10 +8,14 @@ ecosystem.
 Grille can drive three drum voices, one lead voice and one bassline. The
 bassline generation is based on the lead.
 
-## How it works
+## Which button do what ?
 
 You can refer to the diagram and the inputs and outputs list in `droid.ini`
 file.
+
+## Video
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/632831280?h=0abd14de32&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Grille v1.0 demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Install
 
