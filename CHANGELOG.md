@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- Changed longest melodic pattern length to be 32 instead of 24
+
 ## [1.0.0] - 2021-10-13
 
 ### Added
