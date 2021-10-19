@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixes
+- Changelog's repo url are the correct ones
+
 ## [1.0.1] - 2021-10-19
 
 ### Fixed
@@ -18,6 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 1 lead voice with mute, variation, fixed rythmes, branches, etc.
 - 1 bassline voice based on the lead voice generation
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.1...HEAD
-[1.0.1]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v1.0.0
+[Unreleased]: https://github.com/alienlebarge/droid-grille/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/alienlebarge/droid-grille/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/alienlebarge/droid-grille/releases/tag/v1.0.0
